@@ -1,0 +1,4 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"J1, J2",JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal,2,Conn_01x04_Pin,
+"J3, J4",JST_XH_S12B-XH-A_1x12_P2.50mm_Horizontal,2,Conn_01x12_Pin,
+"U1, U2, U3, U4",nixies-IN-12,4,IN-12,

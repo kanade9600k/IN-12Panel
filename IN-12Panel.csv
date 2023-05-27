@@ -1,0 +1,4 @@
+"#","Reference","Qty","Value","Footprint","DNP"
+"1","J1, J2","2","Conn_01x04_Pin","Connector_JST:JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal",""
+"2","J3, J4","2","Conn_01x12_Pin","Connector_JST:JST_XH_S12B-XH-A_1x12_P2.50mm_Horizontal",""
+"3","U1, U2, U3, U4","4","IN-12","mylib:nixies-IN-12",""

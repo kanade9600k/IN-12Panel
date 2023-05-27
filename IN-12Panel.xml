@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\tomo9\Documents\電子工作\KiCad\IN-12Panel\IN-12Panel.kicad_sch</source>
+    <date>2023/03/22 20:13:23</date>
+    <tool>Eeschema (7.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>IN-12Panel.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>Conn_01x04_Pin</value>
+      <footprint>Connector_JST:JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Pin" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IN-12Panel.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>616a7d25-a72f-45f7-ad75-cbd48b3b6de8</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x04_Pin</value>
+      <footprint>Connector_JST:JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Pin" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IN-12Panel.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c59f3d2-7207-4c34-8240-76660946092d</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x12_Pin</value>
+      <footprint>Connector_JST:JST_XH_S12B-XH-A_1x12_P2.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x12_Pin" description="Generic connector, single row, 01x12, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IN-12Panel.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x12, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>562f54f3-82f4-45ae-8ee8-0a2951d29fc9</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x12_Pin</value>
+      <footprint>Connector_JST:JST_XH_S12B-XH-A_1x12_P2.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x12_Pin" description="Generic connector, single row, 01x12, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IN-12Panel.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x12, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39f9a55e-b40a-4f9b-a3e2-06ebeb866989</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>IN-12</value>
+      <footprint>mylib:nixies-IN-12</footprint>
+      <datasheet>http://www.tube-tester.com/sites/nixie/dat_arch/IN-12A_IN-12B_03.pdf</datasheet>
+      <libsource lib="mylib" part="IN-12" description="ニキシー管 IN-12"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IN-12Panel.kicad_sch"/>
+      <property name="ki_description" value="ニキシー管 IN-12"/>
+      <property name="ki_keywords" value="nixie"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cfd63668-47d5-4ad5-933a-ae47e522a93d</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>IN-12</value>
+      <footprint>mylib:nixies-IN-12</footprint>
+      <datasheet>http://www.tube-tester.com/sites/nixie/dat_arch/IN-12A_IN-12B_03.pdf</datasheet>
+      <libsource lib="mylib" part="IN-12" description="ニキシー管 IN-12"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IN-12Panel.kicad_sch"/>
+      <property name="ki_description" value="ニキシー管 IN-12"/>
+      <property name="ki_keywords" value="nixie"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff121220-d704-407e-9185-53917cad58f1</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>IN-12</value>
+      <footprint>mylib:nixies-IN-12</footprint>
+      <datasheet>http://www.tube-tester.com/sites/nixie/dat_arch/IN-12A_IN-12B_03.pdf</datasheet>
+      <libsource lib="mylib" part="IN-12" description="ニキシー管 IN-12"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IN-12Panel.kicad_sch"/>
+      <property name="ki_description" value="ニキシー管 IN-12"/>
+      <property name="ki_keywords" value="nixie"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e557bf8f-baca-4bed-be60-dcd576ff53e1</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>IN-12</value>
+      <footprint>mylib:nixies-IN-12</footprint>
+      <datasheet>http://www.tube-tester.com/sites/nixie/dat_arch/IN-12A_IN-12B_03.pdf</datasheet>
+      <libsource lib="mylib" part="IN-12" description="ニキシー管 IN-12"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IN-12Panel.kicad_sch"/>
+      <property name="ki_description" value="ニキシー管 IN-12"/>
+      <property name="ki_keywords" value="nixie"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5860ae47-a383-4cb7-bfcd-10adac820d3b</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x04_Pin">
+      <description>Generic connector, single row, 01x04, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x12_Pin">
+      <description>Generic connector, single row, 01x12, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x12_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="mylib" part="IN-12">
+      <description>ニキシー管 IN-12</description>
+      <docs>http://www.tube-tester.com/sites/nixie/dat_arch/IN-12A_IN-12B_03.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">IN-12</field>
+        <field name="Footprint">mylib:nixies-IN-12</field>
+        <field name="Datasheet">http://www.tube-tester.com/sites/nixie/dat_arch/IN-12A_IN-12B_03.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="0" type="passive"/>
+        <pin num="3" name="9" type="passive"/>
+        <pin num="4" name="8" type="passive"/>
+        <pin num="5" name="7" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="5" type="passive"/>
+        <pin num="8" name="4" type="passive"/>
+        <pin num="9" name="3" type="passive"/>
+        <pin num="10" name="2" type="passive"/>
+        <pin num="11" name="1" type="passive"/>
+        <pin num="12" name="LHDP" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="mylib">
+      <uri>C:/Users/tomo9/Documents/KiCad/7.0/symbols/mylib.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/0">
+      <node ref="J3" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J4" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="0" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="0" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="0" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="0" pintype="passive"/>
+    </net>
+    <net code="2" name="/1">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="11" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="11" pinfunction="1" pintype="passive"/>
+      <node ref="U4" pin="11" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="3" name="/2">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="2" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="2" pintype="passive"/>
+      <node ref="U3" pin="10" pinfunction="2" pintype="passive"/>
+      <node ref="U4" pin="10" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="4" name="/3">
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="3" pintype="passive"/>
+      <node ref="U2" pin="9" pinfunction="3" pintype="passive"/>
+      <node ref="U3" pin="9" pinfunction="3" pintype="passive"/>
+      <node ref="U4" pin="9" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="5" name="/4">
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="4" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="4" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="4" pintype="passive"/>
+      <node ref="U4" pin="8" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="6" name="/5">
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="5" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="5" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="5" pintype="passive"/>
+      <node ref="U4" pin="7" pinfunction="5" pintype="passive"/>
+    </net>
+    <net code="7" name="/6">
+      <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J4" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="6" pintype="passive"/>
+    </net>
+    <net code="8" name="/7">
+      <node ref="J3" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J4" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="7" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="7" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="7" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="7" pintype="passive"/>
+    </net>
+    <net code="9" name="/8">
+      <node ref="J3" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J4" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="8" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="8" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="8" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="8" pintype="passive"/>
+    </net>
+    <net code="10" name="/9">
+      <node ref="J3" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="J4" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="9" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="9" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="9" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="9" pintype="passive"/>
+    </net>
+    <net code="11" name="/DIG0">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="12" name="/DIG1">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="13" name="/DIG2">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="14" name="/DIG3">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="15" name="/LHDP">
+      <node ref="J3" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="J4" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="LHDP" pintype="passive"/>
+      <node ref="U2" pin="12" pinfunction="LHDP" pintype="passive"/>
+      <node ref="U3" pin="12" pinfunction="LHDP" pintype="passive"/>
+      <node ref="U4" pin="12" pinfunction="LHDP" pintype="passive"/>
+    </net>
+    <net code="16" name="unconnected-(J3-Pin_12-Pad12)">
+      <node ref="J3" pin="12" pinfunction="Pin_12" pintype="passive+no_connect"/>
+    </net>
+    <net code="17" name="unconnected-(J4-Pin_12-Pad12)">
+      <node ref="J4" pin="12" pinfunction="Pin_12" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
